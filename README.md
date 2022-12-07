@@ -52,6 +52,7 @@ First, decide the appropriate models to consider for your task. See [this diagra
 - For template code for regression, see [this notebook](3b.%20Regression.ipynb).
 - For template code for clustering, see [this notebook](3c.%20Clustering.ipynb).
 
+
 ---
 
 ### Contributing
