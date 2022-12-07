@@ -12,7 +12,7 @@ The purpose of this repository is to provide template code to support each stage
 
 
 
-## Stages of the pipeline:
+## Stages of the pipeline
 
 ### Step 1: Set up repository
 
@@ -33,6 +33,18 @@ Questions to answer:
 - What kind of task is this? What kind of models might be appropriate?
 
 Template code to help wth this analysis is available in [this notebook](1.%20Initial%20Exploratory%20Data%20Analysis.ipynb).
+
+
+### Step 3: Engineer features (as appropriate)
+
+The exact process for feature engineering depends a lot on the task and model that will be used.
+
+A suggested general process is the following:
+
+Use the template code in [this notebook](2.%20Feature%20Enginering.ipynb) to visualise each feature while creating a custom function to extract it. Then, move the functions into [this src module](/src/build_features.py).
+
+
+### Step 4: Train the appropriate models
 
 
 
