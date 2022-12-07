@@ -46,15 +46,11 @@ Use the template code in [this notebook](2.%20Feature%20Engineering.ipynb) to vi
 
 ### Step 4: Train the appropriate models
 
-[decide the appropriate model... sk learn diagram can help here]
+First, decide the appropriate models to consider for your task. See [this diagram](https://scikit-learn.org/stable/tutorial/machine_learning_map/index.html) for selecting in common scenarios.
 
-
-- For template code for classification, see this notebook.
-- For template code for regression, see this notebook.
-- For template code for clustering, see this notebook.
-
-
-
+- For template code for classification, see [this notebook](3a.%20Classification.ipynb).
+- For template code for regression, see [this notebook](3b.%20Regression.ipynb).
+- For template code for clustering, see [this notebook](3c.%20Clustering.ipynb).
 
 ---
 
