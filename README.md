@@ -10,6 +10,7 @@ Generalisable code for common stages of a data science task pipeline.
 
 The purpose of this repository is to provide template code to support each stage of the 'standard' data science pipeline.
 
+(NOTE: This repository is a work-in-progress. I will be adding more template code over time as a by-product of different projects I am working on.)
 
 
 ## Stages of the pipeline
