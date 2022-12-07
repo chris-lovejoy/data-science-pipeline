@@ -41,10 +41,18 @@ The exact process for feature engineering depends a lot on the task and model th
 
 A suggested general process is the following:
 
-Use the template code in [this notebook](2.%20Feature%20Enginering.ipynb) to visualise each feature while creating a custom function to extract it. Then, move the functions into [this src module](/src/build_features.py).
+Use the template code in [this notebook](2.%20Feature%20Engineering.ipynb) to visualise each feature while creating a custom function to extract it. Then, move the functions into [this src module](/src/build_features.py).
 
 
 ### Step 4: Train the appropriate models
+
+[decide the appropriate model... sk learn diagram can help here]
+
+
+- For template code for classification, see this notebook.
+- For template code for regression, see this notebook.
+- For template code for clustering, see this notebook.
+
 
 
 
